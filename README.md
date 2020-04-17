@@ -9,7 +9,7 @@
 
 研究的结果
 
-- [[强化学习在期权定价中的应用.pdf](https://github.com/imagemoon0406/RL4OptionPricing/blob/master/强化学习在期权定价中的应用.pdf)]
+- [强化学习在期权定价中的应用.pdf](https://github.com/imagemoon0406/RL4OptionPricing/blob/master/强化学习在期权定价中的应用.pdf)
 
 代码实现，分别对应原文中的两种方法
 
